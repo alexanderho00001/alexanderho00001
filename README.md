@@ -6,7 +6,7 @@ I am a motivated Computer Science student with solid skills in data systems, ser
 
 * I’m currently working on a **Survival Prediction Website** for a client at the University of Alberta, using Python, R, and React to create a tool for patient survival prediction models.
 * I’m currently expanding my skills in machine learning and computer vision, applying technologies like PyTorch and TensorFlow to projects like my **SignWave** hackathon entry and the **Survival Prediction Website**.
-* You can reach me at **alex.ho00001@gmail.com** or connect with me on **LinkedIn**.
+* You can reach me at **alex.ho00001@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/alexander-ho-448a67293)**.
 * Fun fact: I am an **Eagle Scout**!
 
 ---
