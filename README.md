@@ -20,7 +20,7 @@ I am a motivated Computer Science student with solid skills in data systems, ser
 
 ## 🏆 Projects & Hackathons
 
-## **Envision Mind Care LUMI** (2026)
+### **Envision Mind Care LUMI** (2026)
 * Worked with the Envision Mind Care Software Engineering team to build a "Clinic Brain" capable of running the clinic's everyday activities.
 * The AI software organized the clinic's scheduling, calendar, notifications, tasks, and even scribe client-to-patient interactions.
 
