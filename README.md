@@ -4,7 +4,7 @@ Hello! Welcome to my GitHub portfolio. My name is Alex, I'm a third year undergr
 
 I am a motivated Computer Science student with solid skills in data systems, serialization, machine learning, formal systems, object-oriented programming, and game development. I also bring excellent writing, analysis, leadership, and interpersonal skills to my work.
 
-* I’m currently working with **[Envision Mind Care](https://www.envisionmindcare.com)** to build an Artificial Intelligence "Clinic Brain" to run the clinic's daily operations.
+* I recently worked with **[Envision Mind Care](https://www.envisionmindcare.com)** to build an Artificial Intelligence "Clinic Brain" to run the clinic's daily operations.
 * I’m currently expanding my skills in machine learning and computer vision, applying technologies like PyTorch and TensorFlow to projects like my **SignWave** hackathon entry and the **Survival Prediction Website**.
 * You can reach me at **alex.ho00001@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/alexander-ho-448a67293)**.
 * Fun fact: I am an **Eagle Scout**!
@@ -21,8 +21,8 @@ I am a motivated Computer Science student with solid skills in data systems, ser
 ## 🏆 Projects & Hackathons
 
 ## **Envision Mind Care LUMI** (2026)
-* Working with the Envision Mind Care Software Engineering team to build a "Clinic Brain" capable of running the clinic's everyday activities.
-* The AI software will organize the clinic's scheduling, calendar, notifications, tasks, and even scribe client-to-patient interactions.
+* Worked with the Envision Mind Care Software Engineering team to build a "Clinic Brain" capable of running the clinic's everyday activities.
+* The AI software organized the clinic's scheduling, calendar, notifications, tasks, and even scribe client-to-patient interactions.
 
 ### **Survival Prediction Website** (2025)
 * Worked with a team client at the University of Alberta to create a website for patient survival prediction models.
